@@ -1,0 +1,98 @@
+[
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=224076000682&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTExMTRfMzAg/MDAxNzYzMTAyOTE1NzY2.xVEnlPi9FRtdLStHenNr-6HY5yOr9dOXjERJf2YPJrYg.ZazujyqpgmEhUIXy9E6NAylpsdvOTGNJijqpODHwEZAg.PNG/%B1%E8%C3%B5%BA%CE%B0%EE%C3%CA%B5%EE%C7%D0%B1%B3.png?type=f238',
+    title: '나라장터 통해 납품된 65인치 회전형 키오스크, 김천부곡초에 설치 했어요',
+    date: '2025. 11. 14.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=224074883420&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTExMTNfMTA0/MDAxNzYzMDE4NjAzOTU0.b4_QhymaNDqoBd62G-VSRs8IWRPBwBoqAii8JPORzCIg.NF1EFGbwTiUP7Q_OW19Nw7rgsNz6ngCrEU2fAP23RoEg.PNG/%B0%AD%BC%AD%B1%B8%C5%B0%BF%F2%BC%BE%C5%CD.png?type=f238',
+    title: '강서구 키움센터 55인치 회전형 터치 키오스크 2대 설치했어요',
+    date: '2025. 11. 13.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=224073326870&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTExMTJfMTY5/MDAxNzYyOTE0NzE3NzQ0.lrrb2q5kOgwyg0XW-ykJQiVxV8q0IwZCN2DElMxkD9Eg.HbQd4iEzT3_zQW-gsPcAyCA9jYjTCToollmPgnBMAN0g.PNG/%B0%F8%C1%D6%C1%DF%BA%CE%C1%F6%B9%E6%BB%EA%B8%B2%C3%BB.png?type=f238',
+    title: '43인치 스탠드형 키오스크 설치로 안내를 편리하게 할 수 있었어요',
+    date: '2025. 11. 12.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=224063037167&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTExMDNfMjU0/MDAxNzYyMTQ2NDAwNzgy.u9fnegrZuAc7h7PAgR3PLbbMGa2oebtjvwx5eiXLB4Yg.5NbWHBwPT3UfNMwz51UhKByC_ie9XE1jKN8Hv8CA-1wg.PNG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-013.png?type=f238',
+    title: '43인치 회전형 PC타입 터치기능 탑재 키오스크 설치 하고 왔어요',
+    date: '2025. 11. 3.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=224062833015&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTExMDNfODUg/MDAxNzYyMTM2MTI3Mzk4.ZQB6f-NDPWDy4Ju2lg4i8CIiAD9JDLryC7tYP-q01egg.DCy6C4pfKQp-qAkj3ObCE9wmS3fopPS1PT43dQdYfmsg.PNG/%B1%B9%B8%B3%B1%A4%C1%D6%B0%FA%C7%D0%B0%FC.png?type=f238',
+    title: '65인치 회전형 키오스크 조달청 나라장터 통해 과학관에 납품했어요',
+    date: '2025. 11. 3.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=224056433751&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTEwMjhfMTI3/MDAxNzYxNjI0NzI3Mzc2.CLLJT3mANJHYU3A6JWEhVPJpHG06JuiXzkHurF7HYmUg.y7A8mHRNfUqC68nsAe7QczvPtJSIFllR3Hl6ngzpaAUg.PNG/%BA%CE%C3%B5%BA%CE%C8%EF%C3%CA%B5%EE%C7%D0%B1%B3.png?type=f238',
+    title: '학교용 키오스크 추천 조달청 나라장터 등록 55인치 회전형 성공설치사례, 부천부흥초등...',
+    date: '2025. 10. 28.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=224044415106&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTEwMTdfNSAg/MDAxNzYwNjc3NTEwNDk1.Vq82bRlFPiVtM6_HJxUSOVyHq3_TFSx_4QliuL0hyREg.jzu0j6AAhsLRmSjRZ0zla4l3UO9l4nysUY8FPZ_Tqx8g.PNG/%BB%E7%C3%B5%C7%D8%BE%E7%B0%E6%C2%FB%BC%AD.png?type=f238',
+    title: '55인치 스탠드형 키오스크 조달청 나라장터 납품 완료 로고인쇄, 사천해양경찰서',
+    date: '2025. 10. 17.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=224042198821&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTEwMTVfMTEg/MDAxNzYwNTEwNjQwOTQ5.aYvflGO0OCP0fQj2v1XmDJA2ouBvl0JNLqmB-SrCu50g.PT8EbKZCD1ARTkhxGg0Csq0XYTpYB0XoER22sBTER98g.PNG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-016.png?type=f238',
+    title: '공공기관 납품 완료 65인치 대형 스탠드형 키오스크 설치, 농림축산검역본부',
+    date: '2025. 10. 15.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=224040985593&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTEwMTRfMTQ0/MDAxNzYwNDI1MDkzOTQ3.JJ3wBgpHQ-TvdMfAEyJ6-uwViFKJ1m2ZANp1juts1cwg.bIdQF_vEBMW4BJQh1YNMOiWj55HPlrYM_NGKs2Tecskg.PNG/%C1%B6%C0%CC%C7%AA%B5%E5.png?type=f238',
+    title: '기업 홍보의 첫인상, 43인치 키오스크로 완성 usb미디어타입, (주)*이푸드',
+    date: '2025. 10. 14.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=224025709846&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTA5MjlfMjUz/MDAxNzU5MTIxMjYzMDE1.tzOrCsDEJVq2IplNEKEzp2v8fZfBixbGyQgHBuJTITwg.C0gIGixoIrmIKV_lKyossyQi1z3BI9rasjIYVzoapisg.PNG/%B4%EB%B1%B8%C0%E5%BB%EA%C3%CA%B5%EE%C7%D0%B1%B3.png?type=f238',
+    title: '교육기관 키오스크 활용법! 55인치 세로형 키오스크 설치 사례 usb 타입, 대구장산...',
+    date: '2025. 10. 10.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=224025564643&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTA5MjlfMTU5/MDAxNzU5MTEzMjg1Mzgx.duqCNKfX89w4KPY5kLg6K1MlGQitgWcaeOKN3uuIUYYg.VrBcZ74hnA0hLaizyEkjvPDxAFTRrXMJTOaYFzYgOSAg.PNG/%BC%BA%B0%EE%C1%DF%C7%D0%B1%B3.png?type=f238',
+    title: 'T-CMS 원격제어로 더 똑똑해진 학교 로비 55인치 키오스크 조달청 나라장터, 성곡...',
+    date: '2025. 9. 29.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=224020176839&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTA5MjRfMTU0/MDAxNzU4Njk0OTAyMzgz.vwjV-1cg7tJ0HehYiTgZPpBR9jv5iY9DcNoYs5yMUY4g.aqKt3TS4sPUJT98fy4j-7xbCNepZHtjQE4fkjGm0Mi4g.PNG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-004.png?type=f238',
+    title: '49인치 회전형 키오스크 원격관리 가능한 T-CMS로 학교 운영 편리하게 설치후기, ...',
+    date: '2025. 9. 24.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=224018727408&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTA5MjNfMTE1/MDAxNzU4NjAyNDM0MTMw.ASPwWidCZJ1_SK34uvgejLHvrKdl9I5RwPfMfri0Yvcg.qK2d5iVXgxjEg3rYrg7fM_P0aTswuBrES3O-PNEgA3kg.PNG/%BC%AD%BF%EF%C3%BB%B3%E2%BC%BE%C5%CD%B0%FC%BE%C7%BD%C5%B8%B2.png?type=f238',
+    title: '나라장터 납품 사례 USB로 간편하게 쓰는 49인치 회전형 키오스크, 서울청년센터 관...',
+    date: '2025. 9. 23.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=224014302413&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTA5MTlfNTEg/MDAxNzU4MjYyNDE2MTA0.fgtsM7vCb92_oQDDCA0V9IUEAjE5plP2t8cIJCvbSRQg.2pQsrO44wlOlBZgy6xtOhQ9Mq0T6vj7s2OxgjvBt4SAg.PNG/T-%BC%AD%BA%A3%C0%CC9%B0%B3%B0%ED%B5%EE%C7%D0%B1%B3.png?type=f238',
+    title: '공지·홍보·메뉴안내·소비자만족도조사까지 가능한 터치 키오스크 T-서베이, 서울 9개교...',
+    date: '2025. 9. 19.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=224011734760&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTA5MTdfMjcz/MDAxNzU4MDg5NjgyMDUx.9-JTEAdrm5L3tS9QIssbhL5vicWHmWPxOVkVRkXmbIYg.cGXHyxLsk0V1R_i1wTbLpOy3SyAQ3_T6yfqvu6e3bMQg.PNG/%C0%CE%C3%B5%B1%B9%C1%A6%B0%F8%C7%D7.png?type=f238',
+    title: '공항에 설치된 55인치 스탠드형 키오스크! 브랜드 로고까지 완벽 적용, 인천국제공항',
+    date: '2025. 9. 17.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=224010003752&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTA5MTZfMjUx/MDAxNzU3OTg3NDU1OTU2.SHwCae12yRuaVzfH5-_3G3RW6O_StVmg02zCoDKVIXwg.OrbG0eQifM35mVrWbcOclEmUctXbyJd0vMZIjpzRZDkg.PNG/%B0%E6%BA%CF%B4%EB%C7%D0%B1%B3%B9%FD%C7%D0%C0%FC%B9%AE%B4%EB%C7%D0%BF%F8.png?type=f238',
+    title: '학교·기관에 안심 납품! 49인치 회전형 키오스크 설치 사례, 경북대학교 법학전문대학...',
+    date: '2025. 9. 16.'
+  }
+]

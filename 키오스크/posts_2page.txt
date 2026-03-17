@@ -1,0 +1,98 @@
+[
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=224003908974&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTA5MTFfMTg2/MDAxNzU3NTY2NzY1NTEw.7nVIp0DRGYYW3rzk7Cxp_S-jI03Hk9CX0piWD3butXkg.bf3DXsxNWVv1HgYNeXE8z7mcbSetZ692t95gTwNe-ecg.PNG/%B1%BA%BB%EA%B8%ED%C8%AD%C7%D0%B1%B3.png?type=f238',
+    title: '학교 키오스크 제조 납품 설치 사례 65인치 회전형 원격제어, 군산명화학교',
+    date: '2025. 9. 11.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=224002585136&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTA5MTBfMjUw/MDAxNzU3NDcwMjEzODIy.HGKQAgTd83P6WEfbbx_G-K3BJUI2mTgH9xFw4CPrmtEg.3mgJjrxyJRXWB7NK0c3YbQJAtl-ctz0drJk6jKM_uqsg.PNG/%B1%B9%B8%B3%BA%CE%BF%A9%B9%DA%B9%B0%B0%FC.png?type=f238',
+    title: '나라장터 납품 완료 43인치 키오스크 설치! 팜플렛보다 더 스마트하게, 국립부여박물관',
+    date: '2025. 9. 10.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=224001359156&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTA5MDlfOTcg/MDAxNzU3NDA0OTQxODgz.bNpeEzi4d6oSg1zFeANs_x66sfuflCDaaEyZjwes9SMg._uiaad7CY3hTJf8Bf8CSXZeAVTQjbjwRxtAFVkpaflUg.PNG/%C0%CE%C3%B5%B0%E6%B8%ED%C3%CA%B5%EE%C7%D0%B1%B3.png?type=f238',
+    title: '75·65인치 키오스크 설치 완료! 스마트 원격 관리로 학교 생활 UP! 인천경명초등...',
+    date: '2025. 9. 9.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=223993660365&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTA5MDNfMTE5/MDAxNzU2ODcyOTY0MjYy.gONZwqa0UpF0AVKH-_hLji7wxvJ9XXOIhCeMpDrKLYYg.Aw0tMsyVoT0leuZo8uZCQJ8zUWFwW3RaTi65nuhbjdgg.PNG/%C6%C4%C1%D6%C3%CA%B5%EE%C7%D0%B1%B3.png?type=f238',
+    title: '학교 맞춤형 키오스크 납품 사례 초등학교 43인치 회전형 설치, *주초등학교',
+    date: '2025. 9. 3.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=223991182543&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTA5MDFfMTYy/MDAxNzU2NzExMTU5NjQ0.faDtwaFET4WBUnD1z6DWQLGVhOSvWmX6iqUVlGbD7MAg.77J2P-nNF3ar0LuClGid0uD3fsoRP-_bPFt63OWvHxwg.PNG/%C8%A3%B3%B2%B4%EB%C7%D0%B1%B3.png?type=f238',
+    title: '터치·원격제어까지 가능한 55인치 회전형 키오스크 PC 타입, *남대학교',
+    date: '2025. 9. 2.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=223990834843&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTA5MDFfMTMx/MDAxNzU2Njk1MzcyMzQ5.mgXC5vFM1W_Mi7c9DU1tlZsWtF6IK7_NjHq3Vw2AvpAg.VYH1XFRvEe3NxUF19gwCpk6AsUu36qaH20iXhEJ5iB4g.PNG/%B0%E6%C0%CE%C1%A6%C0%CF%B1%B3%C8%B8.png?type=f238',
+    title: '예배·행사 안내를 한눈에! 교회 맞춤형 55인치 회전형키오스크 솔루션, *인제일교회',
+    date: '2025. 9. 1.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=223908806221&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTA2MjNfMTIz/MDAxNzUwNjYxMzA5NzIw.oFeGDh57DEdwqFbwfsoeQ0ja9VDA3PIK8kTBiMQ4iIEg.tAu2rJ7vfus3csC_-SioYjdagirhlnIkxLpaX-_aNKIg.PNG/%BE%F6%B1%C3%C1%DF%C7%D0%B1%B3.png?type=f238',
+    title: '55인치 회전형 키오스크 피벗기능 영상정보디스플레이장치 학교 교내게시판, 엄궁중학교',
+    date: '2025. 6. 23.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=223851212123&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTA0MzBfMTU0/MDAxNzQ1OTk1MzQ5OTI4.shDlPgQ3_bko21j9tIR8Sl6MMcEjksSjz4hZyHfERNkg.ydnZOCl-NszRPESdabNRCybGBWeR56-lLrPv0OGvgYgg.PNG/%BD%C5%C7%F9%C1%A6%C1%D6%BF%AC%BC%F6%BF%F8.png?type=f238',
+    title: '50인치 삼성정품 광고모니터 65인치 회전형 키오스크 원격제어프로그램 스탠드형거치대,...',
+    date: '2025. 4. 30.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=223841286019&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTA0MjFfMjE2/MDAxNzQ1MjAyOTE4Mzg4.9ilqWesG0h7K1l1-yHIzZOgP5MOb8c9m3a3utnTlBdwg.z_jsuh8Wh8rn46GSLiOdrFI8IxF_6I1doYkVwdGtWrgg.PNG/%BF%A1%C0%CC%B8%E0%C5%D7%C5%A9.png?type=f238',
+    title: 'LG 55인치 스탠드형 키오스크 원격제어 로고인쇄 어플리케이션 구현, 에이멘테*',
+    date: '2025. 4. 21.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=223821993860&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTA0MDRfNCAg/MDAxNzQzNzQzNzc0Nzcz.3CBdxqGfvJMy5EkFMPpK_Z3r3nGFd3Q-nyIcnQJiYLsg.wuSQnhesi_vT88ylZdOFD-6y8y91jX5Jgheug8ARsPwg.PNG/%BE%C6%C6%F7%C3%CA%B5%EE%C7%D0%B1%B3.png?type=f238',
+    title: '65인치 회전형 피벗기능 키오스크 교내전자게시판 원격제어프로그램 솔루션, 아포초등학교',
+    date: '2025. 4. 4.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=223820934973&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTA0MDNfMTk1/MDAxNzQzNjY1MDIyMTQx.hna3Jz4pmZNWIho2IwTmfhKnf7jgRglQfEJDdwdbQmcg.dv3ti5COUPqcmImsq-Wbg5wxGbREqk28e573BIHdixcg.PNG/%BF%EF%C1%F8%B3%B2%BA%CE%B5%B5%BC%AD%B0%FC.png?type=f238',
+    title: '가로세로 회전형 55인치 키오스크 usb미디어타입 인포메이션 제조납품설치, 울진남부도...',
+    date: '2025. 4. 3.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=223811843859&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTAzMjdfMjIg/MDAxNzQzMDU4NjcwODUw.l4p1ntHSjBjtmRyfQJ7oCK9Ns-DMvCG0TA-H5LXTzjkg.nQiu6FxjztrZB4IQVit4rbgPEEwanfP84z2FMk-oJoMg.PNG/%BA%CF%BF%EF%C1%F8%B5%B5%BC%AD%B0%FC.png?type=f238',
+    title: '55인치 회전형 피벗기능 키오스크 안내홍보 usb미디어타입 조달청 나라장터, 북울진도...',
+    date: '2025. 3. 27.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=223804866741&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTAzMjFfMTY2/MDAxNzQyNTM2NTA3OTQx.tOO-_ti3IMufVmt2j6zl6eXfPJvLhuzhtomYXw_W2Fgg.8QnA-uTbpg2casez_vyOFuDpbnsFAL4sCzONMlzGYo4g.PNG/%BC%F6%BE%C8%C3%CA%B5%EE%C7%D0%B1%B3.png?type=f238',
+    title: '43인치 회전형 피벗기능 키오스크 영상정보디스플레이 DID 원격제어프로그램, 수안초등...',
+    date: '2025. 3. 21.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=223803676571&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTAzMjBfMTY4/MDAxNzQyNDUzODg2Njk2.6iZha12UFu-jfDQRSpX4GAU90CZ9zBpmvmLLky0AUzEg.AZ0QGPvVH2TOWgvSxP8rKZXcUPzr3Dh4lR1MPjlUKg0g.PNG/%C1%F8%C7%D8%C0%AF%C4%A1%BF%F8.png?type=f238',
+    title: '49인치 회전형 키오스크 조달청 나라장터 원격제어프로그램 유치원학교병원 안내홍보, 진...',
+    date: '2025. 3. 20.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=223802426731&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTAzMTlfMjkz/MDAxNzQyMzY5MzU4MjY5.gpz090GP0NJvF95jz2740wd1T63gUXeiHdqKcBhn0P4g.82IeGu7UOB5UOc9m4Yk4U-eyiKpe9OzzicjWPGJF1l8g.PNG/%BE%C6%C0%CC%C6%BC%BE%C6%C0%CC%C1%EE.png?type=f238',
+    title: 'LG 55인치 스탠드형 세로형 키오스크 영상정보디스플레이장치 PC타입 터치기능, 아이...',
+    date: '2025. 3. 19.'
+  },
+  {
+    link: 'https://blog.naver.com/PostView.naver?blogId=dclee2346&logNo=223783332379&categoryNo=31&parentCategoryNo=&from=thumbnailList',
+    img: 'https://postfiles.pstatic.net/MjAyNTAzMDRfMTEg/MDAxNzQxMDcyNzEyNjQ1.0cnlUVKjwSfIjlxTzwG1V2q2VR9ZriTeVaoveXMgMXEg.euO2G-0q6oLv0ZhSqVAlQaJb9BH0fiGSs_Q7Z9g0CNwg.PNG/%C7%D1%B1%B9%C8%AF%B0%E6%B0%F8%B4%DC.png?type=f238',
+    title: '65인치 스탠드형/회전형 키오스크 영상정보디스플레이 원격제어/usb타입, 부산울산경남...',
+    date: '2025. 3. 4.'
+  }
+]
